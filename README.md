@@ -9,7 +9,7 @@
 ## My Handles
  [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mdibuhossain/)
  [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/mdibuhossain) 
- [<img src="https://img.shields.io/badge/iIbrahim-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/iIbrahim) 
+ [<img src="https://img.shields.io/badge/iIbrahim-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/mdibuhossain) 
 <!--  [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/mdibuhossain)  -->
 
 ![Profile views](https://gpvc.arturio.dev/mdibuhossain)
